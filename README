@@ -1,5 +1,5 @@
 # zerox-revolver
-
+================
 
 0
 
@@ -9,10 +9,12 @@
 
 --------   hex     -------
 
-離 leave, depart; go away; separate
-線 thread, line, wire; clue
-關 frontier pass; close; relation
-鍵 door bolt, lock bolt; key
+0 0 0 0            9 6 E 2    離 leave, depart; go away; separate
+0 0 0 0            7 D D A    線 thread, line, wire; clue
+0 0 0 0            9 5 D C    關 frontier pass; close; relation
+0 0 0 0            9 3 7 5    鍵 door bolt, lock bolt; key
+
+-------  unicode   -------
 
 編 knit, weave; arrange; compile
 碼 number, numerals; yard; symbol
