@@ -1,2 +1,0 @@
-# zerox-revolver
-.225
